@@ -3,8 +3,11 @@
     font-size: 24px;
     font-family: "Helvetica","Times New Roman", sans-serif;
 }
-.first{
+.first {
     color:white;
     background-color: black;
     font-weight: bold;
+}
+.second {
+    background-color: yellow;
 }
