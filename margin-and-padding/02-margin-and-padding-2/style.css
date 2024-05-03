@@ -29,6 +29,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  margin: 8px;
+  margin: auto;
   display: block;
+  
 }
