@@ -3,14 +3,19 @@
   font-family: monospace;
   background: papayawhip;
   justify-content: space-evenly;
-
+  gap: 10px;
 
 }
 
 .left-links {
-  flex: 1;
-  flex-direction: row;
+  display: flex;
+ 
+ 
   
+}
+
+.right-links {
+  display: flex;
 }
 
 
@@ -29,6 +34,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+
  
  
 }
