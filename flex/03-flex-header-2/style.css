@@ -54,6 +54,10 @@ ul {
   
 }
 
+.links {
+  flex: 1;
+}
+
 .left-items {
   display: flex;
   justify-content: flex-end;
