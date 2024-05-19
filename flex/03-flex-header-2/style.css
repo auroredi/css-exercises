@@ -38,6 +38,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  margin: 8px;
 }
 
 a {
@@ -63,6 +64,7 @@ ul {
 .left-items {
   display: flex;
   gap: 15px;
+
 
   
   
