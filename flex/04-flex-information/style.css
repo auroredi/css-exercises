@@ -13,6 +13,10 @@ img {
   text-align: center;
 }
 
+.plants-container {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
