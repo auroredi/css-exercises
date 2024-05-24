@@ -15,9 +15,16 @@ img {
 
 .plants-container {
   display: flex;
-  justify-content:space-around;
-  gap: 30px;
-  margin: 50px;
+  justify-content:space-between;
+  gap: 52px;
+  margin-top: 32px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.plant {
+  text-align: center;
+  flex-basis: 200px;
 }
 
 
