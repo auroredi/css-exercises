@@ -48,6 +48,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  font-weight: bold;
 }
 
 .warning {
@@ -65,7 +66,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 1px solid #eee;
-  padding: 0;
+  
 }
 
 button {
