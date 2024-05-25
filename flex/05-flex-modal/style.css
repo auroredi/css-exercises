@@ -69,6 +69,9 @@ button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
 }
 
 button.continue {
