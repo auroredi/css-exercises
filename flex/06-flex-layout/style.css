@@ -5,8 +5,12 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
 }
 
+ul {
+  list-style-type: none;
+}
 img {
   width: 600px;
 }
