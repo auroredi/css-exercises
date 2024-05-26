@@ -22,6 +22,12 @@ body {
   justify-content: center;
   align-content: center;
 }
+ 
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
 
 a {
   text-decoration: none;
