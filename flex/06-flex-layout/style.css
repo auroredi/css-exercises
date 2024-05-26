@@ -12,12 +12,16 @@ body {
 
 .header, .footer {
   display: flex;
-  justify-content: space-between;
-  margin-right: 30px;
+ justify-content: space-between;
+  padding-top: 5px;
+  padding-right: 40px;
   font-size: 14px;
 
 }
 
+.footer {
+  background-color: #eeeeee;
+}
 .container {
   display: flex;
   justify-content: center;
@@ -44,6 +48,8 @@ a {
 
 .left-links, .right-links {
   display: flex;
+  justify-content: space-around;
+
   
   gap: 16px;
 }
