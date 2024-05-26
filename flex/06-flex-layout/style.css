@@ -17,6 +17,12 @@ body {
 
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 a {
   text-decoration: none;
   color: rgb(11, 19, 19);
