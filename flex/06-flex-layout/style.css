@@ -12,6 +12,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
+  margin-right: 30px;
 }
 
 .left-links, .right-links {
