@@ -29,6 +29,12 @@ body {
   gap: 5px;
 }
 
+.input
+{
+  display: flex;
+  justify-content: center;
+}
+
 a {
   text-decoration: none;
   color: rgb(11, 19, 19);
