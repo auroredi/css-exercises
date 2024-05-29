@@ -26,7 +26,10 @@ body {
 
 
 .container {
-  flex: 1 1 auto
+  flex: 1 1 auto;
+  display: flex;
+  flex-wrap: wrap;
+
 }
 
 .content {
@@ -36,7 +39,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  flex: 1 0 300px
+  flex: 1 0 300px;
   
 
 }
@@ -45,4 +48,5 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  flex: 1;
 }
